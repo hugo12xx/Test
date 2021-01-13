@@ -1,0 +1,1 @@
+['en la linea: 35 hay un: 6\n', 'en la linea: 45 hay un: 6\n']
